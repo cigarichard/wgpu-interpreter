@@ -1,0 +1,2 @@
+git+https://github.com/xdslproject/xdsl.git@467ab04f3eb2a854c7b7c900518e438a70f205ee#egg=xdsl
+wgpu
